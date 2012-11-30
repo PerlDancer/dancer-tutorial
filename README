@@ -1,0 +1,3 @@
+This is the code from Dancer::Tutorial as a working example for your convenience. This version of the tutorial is intended for Dancer 2.x. 
+
+(There are not so many differences between Dancer 1 and 2 for the application developer, so Dancer::Tutorial remains largely the same as in Dancer 1.x.)
