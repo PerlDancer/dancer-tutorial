@@ -6,7 +6,7 @@
 </head>
 <body>
   <div class=page>
-  <h1>Dancr</h1>
+  <h1>Dancers</h1>
      <div class=metanav>
      <% IF not session.logged_in %>
        <a href="<% login_url %>">log in</a>
